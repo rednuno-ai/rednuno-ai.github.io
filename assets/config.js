@@ -1,0 +1,1 @@
+window.FIRELINE_CONFIG = {"supabaseUrl":"https://oylghwdlzuezwfjpfivn.supabase.co","publishableKey":"sb_publishable__CSuMQSlvu7t1xbJcdgh_w_qYCipMgu","turnstileSiteKey":"","collectionEnabled":false,"cloudEnabled":true};
